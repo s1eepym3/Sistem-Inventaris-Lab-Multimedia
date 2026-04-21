@@ -16,6 +16,7 @@ build/
 .idea/
 *.swp
 *.log
+api_test.http
 
 # OS files
 .DS_Store
